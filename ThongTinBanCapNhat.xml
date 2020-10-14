@@ -4,13 +4,8 @@
 - Cho phép thay đồ bằng các phím số 1,2,3...
 
 
-14/10/2018: PHIÊN BẢN 1.0
-- Fix dis ac, dis auto ở win 7
-- Fix Thương hội 1 số nhiệm vụ ko trả
-- Cho phép thay đồ bằng các phím số 1,2,3...
-
-
-14/10/2018: PHIÊN BẢN 1.0
-- Fix dis ac, dis auto ở win 7
-- Fix Thương hội 1 số nhiệm vụ ko trả
-- Cho phép thay đồ bằng các phím số 1,2,3...
+using (WebClient client = new WebClient())
+{
+     var htmlData = client.DownloadData("http://www.filmweb.pl/Mroczne.Widmo");
+     var htmlCode = Encoding.UTF8.GetString(htmlData);
+}
