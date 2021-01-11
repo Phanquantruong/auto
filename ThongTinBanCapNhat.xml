@@ -1,11 +1,8 @@
-27/12/2020: PHIÊN BẢN 1.1.1
-- Thêm tẩy kim xà 3,4,7
-- Fix lỗi báo danh v2
-- Fix lỗi đăng nhập của v2
-- Fix thay đồ
-- Fix lọc đồ 
-- Fix Phó bản ko qua 
-- Tăng tốc độ xử lý của auto. 
+27/12/2020: PHIÊN BẢN 1.2.2
+- Thêm đầy đủ các phím vào auto thay đồ
+- Thêm auto tự ăn nội ngoại thương
+- Fix auto Pk dame mặc định tự quay lại địa điểm cũ khi chết
+
 
 
 
