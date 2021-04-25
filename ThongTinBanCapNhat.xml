@@ -1,5 +1,10 @@
+25/4/2021: PHIÊN BẢN 1.4.0
+- Fix Auto Train, tự di chuyển quanh map, tự trở lại điểm cũ
+- Chuyển X dame sang tab "Phụ"
+- Thêm hiện tên nhân vật trong Sát thủ đường
+
 10/4/2021: PHIÊN BẢN 1.3.9
-- Tăng tốc độ ngắt chiêu khi xdame, đặt chỉ số là 0 - 0 để ngắt nhanh nhất
+- Tăng tốc độ ngắt chiêu khi xdame, đặt chỉ số là  0 để ngắt nhanh nhất
 
 8/4/2021: PHIÊN BẢN 1.3.8
 - Fix lỗi dis auto, dis acc
