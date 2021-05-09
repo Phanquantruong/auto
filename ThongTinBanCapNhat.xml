@@ -1,3 +1,7 @@
+9/5/2021: PHIÊN BẢN 1.4.4
+- Fix auto Thay đồ nhanh hơn trước, cho bơm máu sau khi thay(dùng cho set hỗ trợ thương dược). CHịu khó cập nhật lại trang bị nhé ae
+- Fix auto Lọc đồ: lọc vũ khí đc chọn 2 opt của vũ khí(yêu cầu thêm 2-7 opt bên dưới danh sách, auto sẽ chọn vk có 2 trong số 7 opt đó và giữ lại, nếu thêm 1 opt thì sẽ chọn vk có 1 opt thỏa đk)
+
 7/5/2021: PHIÊN BẢN 1.4.3
 - Fix auto Nhận vàng Cường hóa
 - Fix auto Buff
