@@ -1,15 +1,9 @@
 8/9/2021: PHIÊN BẢN 2.1.6.1
-  - Fix Lỗi JX2 Anh Em: thấy cách nào dễ hiểu thì xài 1 cách thôi là được
-Cách 1:
-     + Tải bản này https://drive.google.com/u/0/uc?id=1FcfGiYoiWNFv4ymJL0Wv8OYIPR48wOAt&export=download
-     + Vào Auto bằng AnhEm.exe trong thư mục auto
-Cách 2:
-     + Đổi tên thư mục auto, cái nào có chữ Seed Auto đổi hết
-     + Vào Auto bằng AnhEm.exe trong thư mục auto
-Cách 3:
+  - Fix Lỗi JX2 Anh Em:
      + Xóa file msvcp96.dll, msvcpxy.dll trong thư muc game. 
-    File bị nó ẩn thì bật nó hiện lên. cách bật thì google từ khóa "Xem file ẩn win 10"
+       File bị nó ẩn thì bật nó hiện lên. cách bật thì google từ khóa "Xem file ẩn win 10"
      + Vào Auto bằng AnhEm.exe trong thư mục auto
+Hướng dẫn xóa file https://www.facebook.com/SeedAutoJX2/posts/1130075480851837
 
 8/9/2021: PHIÊN BẢN 2.1.6
 - Fix Lỗi JX2 Anh Em: dành cho ai rành máy tính
