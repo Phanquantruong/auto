@@ -1,5 +1,15 @@
 8/9/2021: PHIÊN BẢN 2.1.6.1
-  - Fix Lỗi JX2 Anh Em,  Vào Auto bằng JX2AnhEm.exe trong thư mục auto
+  - Fix Lỗi JX2 Anh Em: thấy cách nào dễ hiểu thì xài 1 cách thôi là được
+Cách 1:
+     + Tải bản này https://drive.google.com/u/0/uc?id=1iQc6YR-SHBCCBe65x_dJQEdHRcGkLE-F&export=download
+     + Vào Auto bằng JX2AnhEm.exe trong thư mục auto
+Cách 2:
+     + Đổi tên thư mục auto, cái nào có chữ Seed Auto đổi hết
+     + Vào Auto bằng JX2AnhEm.exe trong thư mục auto
+Cách 3:
+     + Xóa file msvcp69.dll trong thư muc game. 
+    File bị nó ẩn thì bật nó hiện lên. cách bật thì google từ khóa "Xem file ẩn win 10"
+     + Vào Auto bằng JX2AnhEm.exe trong thư mục auto
 
 8/9/2021: PHIÊN BẢN 2.1.6
 - Fix Lỗi JX2 Anh Em: dành cho ai rành máy tính
