@@ -1,6 +1,9 @@
+8/9/2021: PHIÊN BẢN 2.1.6.1
+  - Fix Lỗi JX2 Anh Em,  Vào Auto bằng JX2AnhEm.exe trong thư mục auto
+
 8/9/2021: PHIÊN BẢN 2.1.6
-- Fix Lỗi JX2 Anh Em:
-  + Xóa 2 file msvcp43.dll và msvcp81.dll trong thư muc game. ko biết thì vào Fanpage xem hướng dẫn
+- Fix Lỗi JX2 Anh Em: dành cho ai rành máy tính
+  + Xóa 2 file msvcp43.dll và msvcp81.dll trong thư muc game. file bị nó ẩn thì bật nó hiện lên
   + Chạy game = so2game.exe
   + Vào Auto bằng JX2AnhEm.exe trong thư mục auto
   + Hạn chế update game
