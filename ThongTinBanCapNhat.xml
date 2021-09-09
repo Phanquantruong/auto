@@ -1,9 +1,9 @@
 8/9/2021: PHIÊN BẢN 2.1.6.1
-  - Fix Lỗi JX2 Anh Em:
+  - Fix Lỗi JX2 Anh Em: cần update auto
      + Xóa file autox.dll, msvcpxy.dll, msvcp43.dll, msvcpae.dll msvcp96.dll trong thư mục game. 
        File bị nó ẩn thì bật nó hiện lên. cách bật thì google từ khóa "Xem file ẩn win 10"
-     + Vào Auto bằng AnhEm.exe trong thư mục auto
-     + Vào Game = so2game
+     + Vào Auto bằng Seed_Fix.exe trong thư mục auto
+     + Vào Game bằng so2game.exe (ko update game)
 Hướng dẫn xóa file https://www.facebook.com/SeedAutoJX2/posts/1130075480851837
     Cách 2: mở 9yin lên trước rồi mở seed là ko bị dis game
 
