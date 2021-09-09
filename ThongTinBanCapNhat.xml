@@ -1,4 +1,4 @@
-9/9/2021: PHIÊN BẢN 2.1.6.1
+9/9/2021: PHIÊN BẢN 2.1.6.2
   - Fix Lỗi JX2 Anh Em: 
      + Cần update auto, ko update game
      + Xóa file autox.dll, msvcpxy.dll, msvcp43.dll, msvcpae.dll msvcp96.dll trong thư mục game. 
