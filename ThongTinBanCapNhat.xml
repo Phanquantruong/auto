@@ -1,6 +1,6 @@
 8/9/2021: PHIÊN BẢN 2.1.6.1
   - Fix Lỗi JX2 Anh Em:
-     + Xóa file msvcpxy.dll,  msvcpae.dll msvcp96.dll trong thư mục game. 
+     + Xóa file msvcpxy.dll, msvcpae.dll msvcp96.dll trong thư mục game. 
        File bị nó ẩn thì bật nó hiện lên. cách bật thì google từ khóa "Xem file ẩn win 10"
      + Vào Auto bằng AnhEm.exe trong thư mục auto
      + Vào Game = so2game
